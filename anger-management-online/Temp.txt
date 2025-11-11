@@ -1,0 +1,68 @@
+Description	Resource	Path	Location	Type
+The method getEvents(String) is undefined for the type HttpClientLite	GameUI.java	/client/src/application	line 371	Java Problem
+The method of(String, String, String, String, String, ((result == null) ? "" : result), String, ((r.pendingActionFor == null) ? "" : r.pendingActionFor)) is undefined for the type Map	AngerServer.java	/server/src/main/java/com/anger/server	line 160	Java Problem
+The method of(String, String, String, String, String, String, String, boolean) is undefined for the type Map	AngerServer.java	/server/src/main/java/com/anger/server	line 228	Java Problem
+The method of(String, String) is undefined for the type Map	AngerServer.java	/server/src/main/java/com/anger/server	line 138	Java Problem
+The method of(String, String) is undefined for the type Map	AngerServer.java	/server/src/main/java/com/anger/server	line 256	Java Problem
+The method readAllBytes() is undefined for the type InputStream	AngerServer.java	/server/src/main/java/com/anger/server	line 69	Java Problem
+Type mismatch: cannot convert from element type Map.Entry<String,Object> to var	AngerServer.java	/server/src/main/java/com/anger/server	line 114	Java Problem
+var cannot be resolved to a type	AngerServer.java	/server/src/main/java/com/anger/server	line 114	Java Problem
+var cannot be resolved to a type	AngerServer.java	/server/src/main/java/com/anger/server	line 131	Java Problem
+var cannot be resolved to a type	AngerServer.java	/server/src/main/java/com/anger/server	line 243	Java Problem
+Access restriction: The method 'Headers.add(String, String)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 62	Java Problem
+Access restriction: The method 'Headers.add(String, String)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 246	Java Problem
+Access restriction: The method 'Headers.add(String, String)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 247	Java Problem
+Access restriction: The method 'Headers.add(String, String)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 248	Java Problem
+Access restriction: The method 'HttpExchange.close()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 83	Java Problem
+Access restriction: The method 'HttpExchange.getRequestBody()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 68	Java Problem
+Access restriction: The method 'HttpExchange.getRequestMethod()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 130	Java Problem
+Access restriction: The method 'HttpExchange.getRequestMethod()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 146	Java Problem
+Access restriction: The method 'HttpExchange.getRequestMethod()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 173	Java Problem
+Access restriction: The method 'HttpExchange.getRequestMethod()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 242	Java Problem
+Access restriction: The method 'HttpExchange.getRequestURI()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 131	Java Problem
+Access restriction: The method 'HttpExchange.getRequestURI()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 243	Java Problem
+Access restriction: The method 'HttpExchange.getResponseBody()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 64	Java Problem
+Access restriction: The method 'HttpExchange.getResponseBody()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 252	Java Problem
+Access restriction: The method 'HttpExchange.getResponseHeaders()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 62	Java Problem
+Access restriction: The method 'HttpExchange.getResponseHeaders()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 245	Java Problem
+Access restriction: The method 'HttpExchange.sendResponseHeaders(int, long)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 63	Java Problem
+Access restriction: The method 'HttpExchange.sendResponseHeaders(int, long)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 249	Java Problem
+Access restriction: The method 'HttpServer.create(InetSocketAddress, int)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 15	Java Problem
+Access restriction: The method 'HttpServer.createContext(String, HttpHandler)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 16	Java Problem
+Access restriction: The method 'HttpServer.createContext(String, HttpHandler)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 17	Java Problem
+Access restriction: The method 'HttpServer.createContext(String, HttpHandler)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 18	Java Problem
+Access restriction: The method 'HttpServer.createContext(String, HttpHandler)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 19	Java Problem
+Access restriction: The method 'HttpServer.setExecutor(Executor)' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 20	Java Problem
+Access restriction: The method 'HttpServer.start()' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 22	Java Problem
+Access restriction: The type 'Headers' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 245	Java Problem
+Access restriction: The type 'HttpExchange' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 49	Java Problem
+Access restriction: The type 'HttpExchange' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 60	Java Problem
+Access restriction: The type 'HttpExchange' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 67	Java Problem
+Access restriction: The type 'HttpExchange' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 129	Java Problem
+Access restriction: The type 'HttpExchange' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 145	Java Problem
+Access restriction: The type 'HttpExchange' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 172	Java Problem
+Access restriction: The type 'HttpExchange' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 241	Java Problem
+Access restriction: The type 'HttpHandler' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 128	Java Problem
+Access restriction: The type 'HttpHandler' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 144	Java Problem
+Access restriction: The type 'HttpHandler' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 171	Java Problem
+Access restriction: The type 'HttpHandler' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 240	Java Problem
+Access restriction: The type 'HttpServer' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 15	Java Problem
+Access restriction: The type 'HttpServer' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_441\lib\rt.jar')	AngerServer.java	/server/src/main/java/com/anger/server	line 15	Java Problem
+ArrayList is a raw type. References to generic type ArrayList<E> should be parameterized	Main.java	/SnakeSprint/src/application	line 43	Java Problem
+Project 'server' has no explicit encoding set	server		/server	No explicit project encoding
+The constructor URL(String) is deprecated since version 20	HttpClientLite.java	/client/src/application/net	line 14	Java Problem
+The constructor URL(String) is deprecated since version 20	HttpClientLite.java	/client/src/application/net	line 28	Java Problem
+The import javafx.fxml.FXMLLoader is never used	Main.java	/SnakeSprint/src/application	line 6	Java Problem
+The type Label from module javafx.controls may not be accessible to clients due to missing 'requires transitive'	Player.java	/client/src/application	line 71	Java Problem
+The type Pane from module javafx.graphics may not be accessible to clients due to missing 'requires transitive'	GameUI.java	/client/src/application	line 351	Java Problem
+The type Stage from module javafx.graphics may not be accessible to clients due to missing 'requires transitive'	GameUI.java	/client/src/application	line 351	Java Problem
+The type Stage from module javafx.graphics may not be accessible to clients due to missing 'requires transitive'	Main.java	/client/src/application	line 11	Java Problem
+The type VBox from module javafx.graphics may not be accessible to clients due to missing 'requires transitive'	Player.java	/client/src/application	line 87	Java Problem
+The value of the field GameUI.gameStarted is not used	GameUI.java	/AngerManagementFX/src/application	line 38	Java Problem
+The value of the lambda parameter e is not used	GameUI.java	/AngerManagementFX/src/application	line 91	Java Problem
+The value of the lambda parameter e is not used	GameUI.java	/AngerManagementFX/src/application	line 129	Java Problem
+The value of the lambda parameter e is not used	GameUI.java	/AngerManagementFX/src/application	line 133	Java Problem
+The value of the lambda parameter e is not used	GameUI.java	/AngerManagementFX/src/application	line 211	Java Problem
+The value of the lambda parameter e is not used	GameUI.java	/AngerManagementFX/src/application	line 295	Java Problem
+The value of the lambda parameter e is not used	Main.java	/SnakeSprint/src/application	line 96	Java Problem
+Type safety: The expression of type ArrayList needs unchecked conversion to conform to List<Point>	Main.java	/SnakeSprint/src/application	line 43	Java Problem
